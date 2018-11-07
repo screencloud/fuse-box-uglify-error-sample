@@ -1,0 +1,17 @@
+{
+  "name": "uglify-es-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node fuse && node build/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fuse-box": "^3.6.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6",
+    "uglify-es": "^3.3.9"
+  }
+}
